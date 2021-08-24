@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The legionOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_alioth.mk
+    $(LOCAL_DIR)/legion_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_alioth-user \
-    lineage_alioth-userdebug \
-    lineage_alioth-eng
+    legion_alioth-user \
+    legion_alioth-userdebug \
+    legion_alioth-eng
